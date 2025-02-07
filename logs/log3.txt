@@ -1,0 +1,1275 @@
+'template/etc' -> './etc'
+'template/etc/dionaea' -> './etc/dionaea'
+'template/etc/dionaea/ihandlers-available' -> './etc/dionaea/ihandlers-available'
+'template/etc/dionaea/ihandlers-available/cmdshell.yaml' -> './etc/dionaea/ihandlers-available/cmdshell.yaml'
+'template/etc/dionaea/ihandlers-available/emu_scripts.yaml' -> './etc/dionaea/ihandlers-available/emu_scripts.yaml'
+'template/etc/dionaea/ihandlers-available/emuprofile.yaml' -> './etc/dionaea/ihandlers-available/emuprofile.yaml'
+'template/etc/dionaea/ihandlers-available/fail2ban.yaml' -> './etc/dionaea/ihandlers-available/fail2ban.yaml'
+'template/etc/dionaea/ihandlers-available/ftp.yaml' -> './etc/dionaea/ihandlers-available/ftp.yaml'
+'template/etc/dionaea/ihandlers-available/hpfeeds.yaml' -> './etc/dionaea/ihandlers-available/hpfeeds.yaml'
+'template/etc/dionaea/ihandlers-available/log_db_sql.yaml' -> './etc/dionaea/ihandlers-available/log_db_sql.yaml'
+'template/etc/dionaea/ihandlers-available/log_incident.yaml' -> './etc/dionaea/ihandlers-available/log_incident.yaml'
+'template/etc/dionaea/ihandlers-available/log_json.yaml' -> './etc/dionaea/ihandlers-available/log_json.yaml'
+'template/etc/dionaea/ihandlers-available/log_sqlite.yaml' -> './etc/dionaea/ihandlers-available/log_sqlite.yaml'
+'template/etc/dionaea/ihandlers-available/nfq.yaml' -> './etc/dionaea/ihandlers-available/nfq.yaml'
+'template/etc/dionaea/ihandlers-available/p0f.yaml' -> './etc/dionaea/ihandlers-available/p0f.yaml'
+'template/etc/dionaea/ihandlers-available/s3.yaml' -> './etc/dionaea/ihandlers-available/s3.yaml'
+'template/etc/dionaea/ihandlers-available/store.yaml' -> './etc/dionaea/ihandlers-available/store.yaml'
+'template/etc/dionaea/ihandlers-available/submit_http.yaml' -> './etc/dionaea/ihandlers-available/submit_http.yaml'
+'template/etc/dionaea/ihandlers-available/submit_http_post.yaml' -> './etc/dionaea/ihandlers-available/submit_http_post.yaml'
+'template/etc/dionaea/ihandlers-available/tftp_download.yaml' -> './etc/dionaea/ihandlers-available/tftp_download.yaml'
+'template/etc/dionaea/ihandlers-available/virustotal.yaml' -> './etc/dionaea/ihandlers-available/virustotal.yaml'
+'template/etc/dionaea/services-available' -> './etc/dionaea/services-available'
+'template/etc/dionaea/services-available/blackhole.yaml' -> './etc/dionaea/services-available/blackhole.yaml'
+'template/etc/dionaea/services-available/epmap.yaml' -> './etc/dionaea/services-available/epmap.yaml'
+'template/etc/dionaea/services-available/ftp.yaml' -> './etc/dionaea/services-available/ftp.yaml'
+'template/etc/dionaea/services-available/http.yaml' -> './etc/dionaea/services-available/http.yaml'
+'template/etc/dionaea/services-available/memcache.yaml' -> './etc/dionaea/services-available/memcache.yaml'
+'template/etc/dionaea/services-available/mirror.yaml' -> './etc/dionaea/services-available/mirror.yaml'
+'template/etc/dionaea/services-available/mongo.yaml' -> './etc/dionaea/services-available/mongo.yaml'
+'template/etc/dionaea/services-available/mqtt.yaml' -> './etc/dionaea/services-available/mqtt.yaml'
+'template/etc/dionaea/services-available/mssql.yaml' -> './etc/dionaea/services-available/mssql.yaml'
+'template/etc/dionaea/services-available/mysql.yaml' -> './etc/dionaea/services-available/mysql.yaml'
+'template/etc/dionaea/services-available/pptp.yaml' -> './etc/dionaea/services-available/pptp.yaml'
+'template/etc/dionaea/services-available/printer.yaml' -> './etc/dionaea/services-available/printer.yaml'
+'template/etc/dionaea/services-available/sip.yaml' -> './etc/dionaea/services-available/sip.yaml'
+'template/etc/dionaea/services-available/smb.yaml' -> './etc/dionaea/services-available/smb.yaml'
+'template/etc/dionaea/services-available/tftp.yaml' -> './etc/dionaea/services-available/tftp.yaml'
+'template/etc/dionaea/services-available/upnp.yaml' -> './etc/dionaea/services-available/upnp.yaml'
+'template/etc/dionaea/dionaea.cfg' -> './etc/dionaea/dionaea.cfg'
+'template/etc/dionaea/ihandlers-enabled' -> './etc/dionaea/ihandlers-enabled'
+'template/etc/dionaea/ihandlers-enabled/cmdshell.yaml' -> './etc/dionaea/ihandlers-enabled/cmdshell.yaml'
+'template/etc/dionaea/ihandlers-enabled/emuprofile.yaml' -> './etc/dionaea/ihandlers-enabled/emuprofile.yaml'
+'template/etc/dionaea/ihandlers-enabled/ftp.yaml' -> './etc/dionaea/ihandlers-enabled/ftp.yaml'
+'template/etc/dionaea/ihandlers-enabled/log_sqlite.yaml' -> './etc/dionaea/ihandlers-enabled/log_sqlite.yaml'
+'template/etc/dionaea/ihandlers-enabled/store.yaml' -> './etc/dionaea/ihandlers-enabled/store.yaml'
+'template/etc/dionaea/ihandlers-enabled/tftp_download.yaml' -> './etc/dionaea/ihandlers-enabled/tftp_download.yaml'
+'template/etc/dionaea/services-enabled' -> './etc/dionaea/services-enabled'
+'template/etc/dionaea/services-enabled/blackhole.yaml' -> './etc/dionaea/services-enabled/blackhole.yaml'
+'template/etc/dionaea/services-enabled/epmap.yaml' -> './etc/dionaea/services-enabled/epmap.yaml'
+'template/etc/dionaea/services-enabled/ftp.yaml' -> './etc/dionaea/services-enabled/ftp.yaml'
+'template/etc/dionaea/services-enabled/http.yaml' -> './etc/dionaea/services-enabled/http.yaml'
+'template/etc/dionaea/services-enabled/memcache.yaml' -> './etc/dionaea/services-enabled/memcache.yaml'
+'template/etc/dionaea/services-enabled/mirror.yaml' -> './etc/dionaea/services-enabled/mirror.yaml'
+'template/etc/dionaea/services-enabled/mongo.yaml' -> './etc/dionaea/services-enabled/mongo.yaml'
+'template/etc/dionaea/services-enabled/mqtt.yaml' -> './etc/dionaea/services-enabled/mqtt.yaml'
+'template/etc/dionaea/services-enabled/mssql.yaml' -> './etc/dionaea/services-enabled/mssql.yaml'
+'template/etc/dionaea/services-enabled/mysql.yaml' -> './etc/dionaea/services-enabled/mysql.yaml'
+'template/etc/dionaea/services-enabled/pptp.yaml' -> './etc/dionaea/services-enabled/pptp.yaml'
+'template/etc/dionaea/services-enabled/printer.yaml' -> './etc/dionaea/services-enabled/printer.yaml'
+'template/etc/dionaea/services-enabled/sip.yaml' -> './etc/dionaea/services-enabled/sip.yaml'
+'template/etc/dionaea/services-enabled/smb.yaml' -> './etc/dionaea/services-enabled/smb.yaml'
+'template/etc/dionaea/services-enabled/tftp.yaml' -> './etc/dionaea/services-enabled/tftp.yaml'
+'template/etc/dionaea/services-enabled/upnp.yaml' -> './etc/dionaea/services-enabled/upnp.yaml'
+'template/lib' -> 'var/lib'
+'template/lib/dionaea' -> 'var/lib/dionaea'
+'template/lib/dionaea/binaries' -> 'var/lib/dionaea/binaries'
+'template/lib/dionaea/fail2ban' -> 'var/lib/dionaea/fail2ban'
+'template/lib/dionaea/printer' -> 'var/lib/dionaea/printer'
+'template/lib/dionaea/printer/root' -> 'var/lib/dionaea/printer/root'
+'template/lib/dionaea/printer/root/0' -> 'var/lib/dionaea/printer/root/0'
+'template/lib/dionaea/bistreams' -> 'var/lib/dionaea/bistreams'
+'template/lib/dionaea/ftp' -> 'var/lib/dionaea/ftp'
+'template/lib/dionaea/ftp/root' -> 'var/lib/dionaea/ftp/root'
+'template/lib/dionaea/http' -> 'var/lib/dionaea/http'
+'template/lib/dionaea/http/root' -> 'var/lib/dionaea/http/root'
+'template/lib/dionaea/http/template' -> 'var/lib/dionaea/http/template'
+'template/lib/dionaea/http/template/example' -> 'var/lib/dionaea/http/template/example'
+'template/lib/dionaea/http/template/example/form.html.j2' -> 'var/lib/dionaea/http/template/example/form.html.j2'
+'template/lib/dionaea/http/template/nginx' -> 'var/lib/dionaea/http/template/nginx'
+'template/lib/dionaea/http/template/nginx/autoindex.html.j2' -> 'var/lib/dionaea/http/template/nginx/autoindex.html.j2'
+'template/lib/dionaea/http/template/nginx/error.html.j2' -> 'var/lib/dionaea/http/template/nginx/error.html.j2'
+'template/lib/dionaea/sip' -> 'var/lib/dionaea/sip'
+'template/lib/dionaea/sip/rtp' -> 'var/lib/dionaea/sip/rtp'
+'template/lib/dionaea/tftp' -> 'var/lib/dionaea/tftp'
+'template/lib/dionaea/tftp/root' -> 'var/lib/dionaea/tftp/root'
+'template/lib/dionaea/upnp' -> 'var/lib/dionaea/upnp'
+'template/lib/dionaea/upnp/root' -> 'var/lib/dionaea/upnp/root'
+'template/log' -> 'var/log'
+'template/log/dionaea' -> 'var/log/dionaea'
+Starting dionaea ...
+
+Dionaea Version 0.11.0 
+Compiled on Linux/x86_64 at Nov 30 2020 22:09:53 with gcc 7.5.0 
+Started on eaeca0ec2ab2 running Linux/x86_64 release 6.1.124-134.200.amzn2023.x86_64
+
+[25012025 16:44:55] [35;1mpptp[0m /dionaea/pptp/pptp.py:52: No config provided. Using default values
+[25012025 16:44:55] [35;1mservices[0m /dionaea/services.py:46: Unable to start service
+Traceback (most recent call last):
+  File "lib/dionaea/python/dionaea/services.py", line 44, in start
+    daemons = service.start(addr, iface=iface, config=srv.get("config", {}))
+  File "lib/dionaea/python/dionaea/sip/__init__.py", line 70, in start
+    daemon = SipSession(proto=proto, config=config)
+  File "lib/dionaea/python/dionaea/sip/__init__.py", line 571, in __init__
+    self.config = SipConfig(config=config)
+  File "lib/dionaea/python/dionaea/sip/extras.py", line 99, in __init__
+    self._cur.execute("CREATE TABLE IF NOT EXISTS sdp (name STRING, sdp STRING)")
+sqlite3.OperationalError: database is locked
+[25012025 16:44:55] [35;1mpptp[0m /dionaea/pptp/pptp.py:52: No config provided. Using default values
+[25012025 16:44:55] [35;1mservices[0m /dionaea/services.py:46: Unable to start service
+Traceback (most recent call last):
+  File "lib/dionaea/python/dionaea/services.py", line 44, in start
+    daemons = service.start(addr, iface=iface, config=srv.get("config", {}))
+  File "lib/dionaea/python/dionaea/sip/__init__.py", line 70, in start
+    daemon = SipSession(proto=proto, config=config)
+  File "lib/dionaea/python/dionaea/sip/__init__.py", line 571, in __init__
+    self.config = SipConfig(config=config)
+  File "lib/dionaea/python/dionaea/sip/extras.py", line 99, in __init__
+    self._cur.execute("CREATE TABLE IF NOT EXISTS sdp (name STRING, sdp STRING)")
+sqlite3.OperationalError: database is locked
+[25012025 16:46:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:46:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:46:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'SYST''
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[25012025 16:49:37] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:38] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[25012025 16:49:38] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:38] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PORT''
+[25012025 16:49:38] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:38] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:38] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[25012025 16:49:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'SYST''
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1039: ReferenceError at ReferenceError('the object requested does not exist',)
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1065: binding.pyx:655 in None
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1066: 	 dionaea.core.connection.close
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1065: lib/dionaea/python/dionaea/ftp.py:568 in None
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1066: 	 handle_disconnect
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1065: binding.pyx:799 in None
+[25012025 16:49:40] [35;1mpython[0m /code/modules/python/module.c:1066: 	 dionaea.core.handle_disconnect_cb
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'STAT''
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASV''
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[25012025 16:49:40] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:49:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:49:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:49:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:44] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:50] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:49:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:00] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:10] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:38] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:50:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:51:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:51:07] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 16:51:07] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[25012025 16:51:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:51:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:51:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:51:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:51:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:51:08] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03k\x03\x8d\x87\xfd\x036\x00\x06\xa9\xc9\x1c\xae12\xca\x7fPe1\x86\x03`\x10\x9fP\x8a\xfc\x90\xb4\x10\xb2''
+[25012025 16:51:08] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/ftp.py", line 236, in handle_io_in
+    self.processcmd(cmd, args)
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in processcmd
+    l = [i.decode() for i in args]
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in <listcomp>
+    l = [i.decode() for i in args]
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb6 in position 6: invalid start byte
+[25012025 16:51:08] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x00W\x01\x00\x00S\x03\x03g\x95\x16z\xb6E\xc5\xea\xd9\xe6\x91\xa2`\xf7\xe5\xc9y\x88''
+[25012025 16:51:08] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/ftp.py", line 236, in handle_io_in
+    self.processcmd(cmd, args)
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in processcmd
+    l = [i.decode() for i in args]
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in <listcomp>
+    l = [i.decode() for i in args]
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb1 in position 1: invalid start byte
+[25012025 16:51:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:51:09] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 16:51:10] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:54:39] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 16:57:01] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 17:04:00] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[25012025 17:18:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 17:24:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 17:28:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 17:30:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 17:30:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 17:34:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 17:34:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 17:38:05] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 17:38:05] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 17:54:48] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 17:58:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 18:21:59] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 18:21:59] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 18:24:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 18:29:01] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 18:32:41] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[25012025 18:54:48] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 18:57:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 19:02:52] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 19:02:52] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[25012025 19:06:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 19:25:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 19:37:03] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 19:54:59] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 19:55:18] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 19:55:29] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:01:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 20:09:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 20:15:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 20:26:10] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:30:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:36:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 20:40:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:55:56] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[25012025 20:55:56] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[25012025 20:56:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 20:59:11] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 21:02:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:11] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:23] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:34] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:46] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:47] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:51] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:54] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:03:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:11:53] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:15:18] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[25012025 21:18:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 21:27:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 21:27:12] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:43:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 21:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 21:57:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 22:23:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 22:28:12] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 22:58:26] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 22:58:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 23:07:55] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[25012025 23:07:55] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[25012025 23:22:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:22:06] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[25012025 23:22:06] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/http.py", line 589, in handle_io_in
+    self.handle_POST()
+  File "lib/dionaea/python/dionaea/http.py", line 702, in handle_POST
+    environ=tmp_environ
+  File "/usr/lib/python3.6/cgi.py", line 566, in __init__
+    self.read_single()
+  File "/usr/lib/python3.6/cgi.py", line 757, in read_single
+    self.read_binary()
+  File "/usr/lib/python3.6/cgi.py", line 779, in read_binary
+    self.file.write(data)
+TypeError: write() argument must be str, not bytes
+[25012025 23:24:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:29:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 23:29:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[25012025 23:32:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:37:32] [35;1mconnection[0m /code/src/connection_tcp.c:271: recv failed size -1 recv_size 1 (Connection reset by peer)
+[25012025 23:37:36] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:37:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:37:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[25012025 23:37:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:01:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 00:16:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 00:16:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:16:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:16:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:16:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:16:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 00:20:17] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:21:54] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:30:39] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 00:31:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 00:32:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 00:49:18] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 00:49:26] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 01:01:18] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:03:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:07:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:07:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:07:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:07:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:07:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:13:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:18:02] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 01:26:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:26:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:26:03] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 01:31:59] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:32:19] [35;1mconnection[0m /code/src/connection_tcp.c:271: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26012025 01:33:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:35:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:39:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:43:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 01:50:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 01:56:27] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 02:02:46] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:04:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:07:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:14:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:15:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:18:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x00\xee\x01\x00\x00\xea\x03\x03|\xd3\x15\xce5-?$\x16\xee\x1aO.\xb4\x19q\x94\x84\xe8\x14\x0f$\x03\xff\xf3D\xbf_Y\x05\xb6\x0b''
+[26012025 02:22:58] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/ftp.py", line 236, in handle_io_in
+    self.processcmd(cmd, args)
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in processcmd
+    l = [i.decode() for i in args]
+  File "lib/dionaea/python/dionaea/ftp.py", line 241, in <listcomp>
+    l = [i.decode() for i in args]
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa5 in position 2: invalid start byte
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'GET''
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'Host:''
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'HELP''
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'EHLO''
+[26012025 02:22:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'?''
+[26012025 02:23:03] [35;1mconnection[0m /code/src/connection_tcp.c:271: recv failed size -1 recv_size 1 (Connection reset by peer)
+[26012025 02:23:03] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[26012025 02:23:03] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[26012025 02:29:44] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:39:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:40:39] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 02:40:39] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 02:43:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:43:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:43:02] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 02:46:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:46:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 02:52:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 02:52:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 03:04:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 03:05:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 03:08:55] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'HELP''
+[26012025 03:08:56] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'SYST''
+[26012025 03:08:57] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'STAT''
+[26012025 03:08:58] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[26012025 03:09:05] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[26012025 03:09:05] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[26012025 03:09:06] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'FEAT''
+[26012025 03:09:06] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'TYPE''
+[26012025 03:09:06] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'EPSV''
+[26012025 03:09:06] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASV''
+[26012025 03:09:10] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[26012025 03:11:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 03:12:17] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 03:12:17] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 03:14:26] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 03:35:13] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 03:36:11] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 03:36:12] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 03:36:12] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 03:43:02] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 03:59:12] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 03:59:12] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 04:05:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:05:54] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:06:34] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:14:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:36:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:16] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:25] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 04:44:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:44:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:44:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:44:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 04:46:14] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:39] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:39] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:08:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:14:44] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'HELP''
+[26012025 05:14:46] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'SYST''
+[26012025 05:14:48] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'FEAT''
+[26012025 05:14:50] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'QUIT''
+[26012025 05:14:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:14:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:14:56] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 05:18:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:20:45] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 05:20:45] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 05:28:17] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:28:17] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:28:17] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 05:38:26] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:44:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:44:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:49:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:49:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:49:50] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 05:50:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 05:53:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:09:14] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:10:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 06:10:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 06:20:44] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 06:20:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 06:22:13] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:27:31] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:27:31] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:32:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:32:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:32:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:32:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 06:32:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 07:03:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:03:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:12:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 07:29:02] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 07:43:16] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 07:48:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:54:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:54:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 07:54:29] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 07:57:47] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 07:57:47] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 08:00:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:13:33] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 08:13:33] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 08:14:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:32:01] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:32:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:42:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:42:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:45:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:45:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:51:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:53:27] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:53:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:56:14] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:56:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:57:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 08:58:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:45] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:46] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 08:58:46] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 09:01:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:03:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 09:08:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:16:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 09:30:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:35:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 09:40:10] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:46:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 09:53:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:29] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:30] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:31] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:31] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:32] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:32] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:57:34] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:59:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:59:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 09:59:07] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 10:07:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 10:17:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 10:34:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 10:39:13] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 10:47:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 10:47:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 10:47:43] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 10:49:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 10:50:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 11:10:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:12:13] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 11:15:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:15:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:15:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:18:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 11:39:22] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 11:39:22] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 11:39:22] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/http.py", line 589, in handle_io_in
+    self.handle_POST()
+  File "lib/dionaea/python/dionaea/http.py", line 702, in handle_POST
+    environ=tmp_environ
+  File "/usr/lib/python3.6/cgi.py", line 566, in __init__
+    self.read_single()
+  File "/usr/lib/python3.6/cgi.py", line 757, in read_single
+    self.read_binary()
+  File "/usr/lib/python3.6/cgi.py", line 779, in read_binary
+    self.file.write(data)
+TypeError: write() argument must be str, not bytes
+[26012025 11:51:14] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:02:26] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:08:17] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:10:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:11:25] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 12:11:25] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 12:20:50] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:53] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:54] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:54] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:54] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:55] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:55] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:55] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:55] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:20:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:20:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:22:23] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:30:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:32:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:32:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 12:32:04] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 12:40:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:45:59] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:46:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:46:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:46:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 12:53:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:02:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:04:34] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:05:00] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'USER''
+[26012025 13:05:00] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PASS''
+[26012025 13:05:00] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'OPTS''
+[26012025 13:05:00] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'PWD''
+[26012025 13:05:01] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'TYPE''
+[26012025 13:21:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:28:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:50:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:55:25] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:56:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:22] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:58:23] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:58:23] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 13:58:32] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 13:58:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:34] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:34] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 13:58:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 14:17:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 14:22:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 14:22:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 14:22:35] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 14:26:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 14:49:53] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:05] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:05] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:05] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:07:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:09:31] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:09:32] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:09:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:09:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:09:42] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 15:13:05] [31;1mSMB[0m /dionaea/smb/smb.py:90: Traceback (most recent call last):
+  File "lib/dionaea/python/dionaea/smb/smb.py", line 87, in handle_io_in
+    p = NBTSession(data, _ctx=self)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 77, in __call__
+    i.__init__(*args, **kargs)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 125, in __init__
+    self.dissect(_pkt)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 403, in dissect
+    self.do_dissect_payload(payl)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 384, in do_dissect_payload
+    p = cls(s, _internal=1, _underlayer=self)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 77, in __call__
+    i.__init__(*args, **kargs)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 125, in __init__
+    self.dissect(_pkt)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 400, in dissect
+    s = self.do_dissect(s)
+  File "lib/dionaea/python/dionaea/smb/include/packet.py", line 376, in do_dissect
+    s,fval = f.getfield(self, s)
+  File "lib/dionaea/python/dionaea/smb/include/fieldtypes.py", line 79, in getfield
+    return  s[self.sz:], self.m2i(pkt, struct.unpack(self.fmt, s[:self.sz])[0])
+struct.error: unpack requires a buffer of 8 bytes
+
+[26012025 15:21:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:44] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:21:44] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:21:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:22:17] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:22:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:22:50] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:23:23] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:23:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:24:29] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:25:02] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:25:36] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:26:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:26:09] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 15:26:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:54:39] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 15:54:51] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 15:54:51] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 16:00:46] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 16:04:57] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 16:04:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 16:09:41] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 16:29:24] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 16:29:24] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 16:32:02] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 16:44:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 16:44:39] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 16:45:54] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 16:52:34] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 16:59:11] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:03:13] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:17:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:24:24] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:24:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:24:25] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 17:28:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:28:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:28:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:32:02] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:34:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:35:34] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:37:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 17:38:21] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 17:38:21] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 17:42:47] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'\x00'
+[26012025 17:42:47] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'\x00'
+[26012025 17:42:47] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 17:47:54] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 17:59:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 17:59:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 18:03:38] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 18:04:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 18:10:47] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 18:35:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 18:35:48] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 18:40:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 18:40:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 18:40:01] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 18:43:15] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 19:06:03] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:07:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:23:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:25:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:36:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:42:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 19:43:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 19:52:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:01:11] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:02:08] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:02:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:16] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:18] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:02:24] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:03:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:03:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:07:18] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:09:17] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:09:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:09:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:18:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 20:37:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:38:52] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 20:38:52] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[26012025 20:41:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 20:55:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:02:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:02:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:02:53] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 21:06:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:06:26] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:27] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:29] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:29] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:06:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:08:37] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:22:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:23:13] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:39] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:49] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 21:24:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:09] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:20] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:25:59] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:27:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:27:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:29:18] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 21:31:21] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 21:31:21] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[26012025 21:39:11] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:46:59] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 21:58:35] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[26012025 22:02:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:02:50] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:06:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:06:31] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:06:39] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:06:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:09:42] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 22:15:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:26:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 22:40:11] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 22:42:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:45:10] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:55:15] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:55:15] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 22:55:15] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 22:58:04] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 23:10:43] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 23:14:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:14:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 23:29:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[26012025 23:33:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:33:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:33:45] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[26012025 23:33:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:42:13] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:42:18] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:47:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:48:12] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:48:30] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:50:32] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:50:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[26012025 23:50:33] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 00:00:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:01:17] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 00:02:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:02:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:02:51] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 00:11:53] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 00:20:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:21:28] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:30:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 00:33:17] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 00:39:29] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'\x00'
+[27012025 00:39:29] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'\x00'
+[27012025 00:39:29] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[27012025 00:42:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 01:04:57] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 01:13:18] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 01:36:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 01:41:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 01:44:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 02:00:41] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 02:08:22] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 02:10:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:10:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:15:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 02:20:27] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:21:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:21:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:21:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:21:55] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 02:21:56] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:22:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:24:54] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:32:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:32:48] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:39:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:39:35] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:39:35] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 02:46:05] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 02:53:59] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 02:53:59] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 02:56:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:56:54] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 02:57:00] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:00:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:05:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:10:26] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:10:44] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:11:13] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:12:00] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:17:38] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:19:16] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:19:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:38:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 03:46:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:47:24] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 03:47:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 03:53:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:04:13] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:07:35] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 04:08:00] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:10:37] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:11:24] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 04:17:12] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:17:12] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:17:12] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 04:18:27] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:18:31] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:32:36] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:38:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:38:48] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 04:39:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:40:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:40:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:40:46] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:40:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:41:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 04:41:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:42:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:46:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 04:48:45] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 04:49:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:00:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:00:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:00:02] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 05:01:18] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:01:18] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 05:01:18] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/http.py", line 589, in handle_io_in
+    self.handle_POST()
+  File "lib/dionaea/python/dionaea/http.py", line 702, in handle_POST
+    environ=tmp_environ
+  File "/usr/lib/python3.6/cgi.py", line 566, in __init__
+    self.read_single()
+  File "/usr/lib/python3.6/cgi.py", line 757, in read_single
+    self.read_binary()
+  File "/usr/lib/python3.6/cgi.py", line 779, in read_binary
+    self.file.write(data)
+TypeError: write() argument must be str, not bytes
+[27012025 05:12:31] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:31] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:31] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:33] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:12:34] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:17:36] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 05:17:36] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 05:19:21] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:27:12] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 05:27:12] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 05:35:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:40:42] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:49:56] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:05] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:53:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:54:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:54:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 05:54:53] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 06:02:22] [31;1mSMB[0m /dionaea/smb/smb.py:107: === not really SMB
+[27012025 06:19:00] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'MGLNDD_16.171.250.41_21''
+[27012025 06:22:52] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 06:28:53] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 06:28:53] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 06:28:55] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 06:28:55] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 06:38:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 06:38:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 06:51:32] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 07:07:48] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 07:11:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:18:19] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[27012025 07:18:20] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[27012025 07:19:07] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:19:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:22:13] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 07:29:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:30:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:30:41] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:30:41] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 07:41:45] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 07:42:06] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 07:48:30] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 07:48:30] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 07:53:12] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:16:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 08:25:46] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 08:25:46] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 08:28:54] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:29:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:35:40] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 08:38:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:38:21] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:38:21] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 08:43:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 08:48:25] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 09:03:30] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 09:06:24] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:08:08] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/http.py", line 524, in handle_io_in
+    self.header = httpreq(header, self)
+  File "lib/dionaea/python/dionaea/http.py", line 123, in __init__
+    path_parsed = urllib.parse.urlsplit(reqparts[1].decode('utf-8'))
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x90 in position 0: invalid start byte
+[27012025 09:16:02] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:19:19] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:22:17] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:22:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 09:25:01] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 09:49:09] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:53:14] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 09:53:43] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 09:55:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:09:59] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 10:09:59] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 10:23:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:25:29] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:26:19] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:31:40] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:31:45] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:31:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:44:49] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:44:53] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:44:58] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:44:59] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:45:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:45:15] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 10:51:45] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 10:51:45] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 10:52:26] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:52:26] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 10:52:26] [31;1mroot[0m (unknown file):0: There was an error in the Python service
+Traceback (most recent call last):
+  File "binding.pyx", line 778, in dionaea.core.handle_io_in_cb
+  File "lib/dionaea/python/dionaea/http.py", line 589, in handle_io_in
+    self.handle_POST()
+  File "lib/dionaea/python/dionaea/http.py", line 702, in handle_POST
+    environ=tmp_environ
+  File "/usr/lib/python3.6/cgi.py", line 566, in __init__
+    self.read_single()
+  File "/usr/lib/python3.6/cgi.py", line 757, in read_single
+    self.read_binary()
+  File "/usr/lib/python3.6/cgi.py", line 779, in read_binary
+    self.file.write(data)
+TypeError: write() argument must be str, not bytes
+[27012025 10:54:01] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:55:25] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 10:57:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 11:12:04] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:17:24] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:19:57] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:19:57] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:19:57] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 11:22:44] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[27012025 11:22:44] [35;1mftp[0m /dionaea/ftp.py:235: cmd 'b'AUTH''
+[27012025 11:27:47] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 11:28:42] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 11:28:42] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 11:31:26] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:35:08] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:42:00] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:47:55] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 11:51:29] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:02:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:05:16] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:05:16] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:05:16] [35;1mhttp[0m /dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8
+[27012025 12:28:06] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:28:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:08] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:09] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:10] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:10] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:28:10] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:29:20] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:33:28] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 12:42:33] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:44:49] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 12:44:51] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 13:00:07] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 13:04:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 13:21:03] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 13:28:52] [35;1mhttp[0m /dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8
+[27012025 13:30:58] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 13:34:31] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 13:34:31] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 13:37:00] [35;1mlog_sqlite[0m /dionaea/logsql.py:747: no attackid for 172.17.0.2:443
+[27012025 13:51:56] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 13:51:56] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00'
+[27012025 14:00:29] [35;1mconnection[0m /code/src/connection.c:137: getpeername failed (Transport endpoint is not connected)
+[27012025 14:00:29] [35;1mconnection[0m /code/src/connection_tcp.c:97: accepting connection failed, closing connection
+[27012025 14:00:43] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'2\x00'
+[27012025 14:00:43] [35;1mSMB[0m /dionaea/smb/smb.py:157: p.haslayer(Raw): b'2\x00'
+[27012025 14:01:44] [35;1mconnection[0m /code/src/connection.c:137: getpeername failed (Transport endpoint is not connected)
+[27012025 14:01:44] [35;1mconnection[0m /code/src/connection_tcp.c:97: accepting connection failed, closing connection
+[27012025 14:01:57] [35;1mSMB[0m /dionaea/smb/smb.py:127: p.haslayer(Raw): b'2\x00'

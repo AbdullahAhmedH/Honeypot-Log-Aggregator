@@ -1,0 +1,1330 @@
+timestamp,service,message,attack_type,predicted_attack_type
+28012025 06:47:11,pptp,/dionaea/pptp/pptp.py:52: No config provided. Using default values,SIP Attack,SIP Attack
+28012025 06:47:11,services,/dionaea/services.py:46: Unable to start service,Other Attack,Other Attack
+28012025 06:47:11,pptp,/dionaea/pptp/pptp.py:52: No config provided. Using default values,SIP Attack,SIP Attack
+28012025 06:47:11,services,/dionaea/services.py:46: Unable to start service,Other Attack,Other Attack
+28012025 06:50:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 06:58:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 07:20:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 07:20:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 07:20:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 07:21:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 07:21:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 07:21:03,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 07:42:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 07:57:51,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 07:57:51,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 08:10:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 08:10:37,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:10:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:10:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:10:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:10:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 08:18:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 08:20:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 08:21:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:39:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:40:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:41:07,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 08:59:56,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+28012025 08:59:56,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+28012025 08:59:56,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+28012025 09:12:55,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 09:21:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 09:30:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 09:33:53,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 09:52:06,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 09:52:06,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 10:16:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:19:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 10:19:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 10:20:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:22:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 10:22:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 10:22:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 10:24:53,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:28:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:30:28,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:38:39,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:55:59,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 10:59:35,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:08:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:08:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:15:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:45:44,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 11:53:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 12:02:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 12:02:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 12:21:52,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 12:21:52,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 12:34:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:35:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 12:39:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 12:40:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:00:35,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 13:00:35,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 13:11:09,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:13:28,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:13:56,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:13:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:13:59,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:13:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 13:16:07,ftp,/dionaea/ftp.py:235: cmd 'b'HELP'',FTP Attack,FTP Attack
+28012025 13:16:09,ftp,/dionaea/ftp.py:235: cmd 'b'SYST'',FTP Attack,FTP Attack
+28012025 13:16:11,ftp,/dionaea/ftp.py:235: cmd 'b'FEAT'',FTP Attack,FTP Attack
+28012025 13:16:13,ftp,/dionaea/ftp.py:235: cmd 'b'QUIT'',FTP Attack,FTP Attack
+28012025 13:30:11,ftp,/dionaea/ftp.py:235: cmd 'b'USER'',FTP Attack,FTP Attack
+28012025 13:30:11,ftp,/dionaea/ftp.py:235: cmd 'b'PASS'',FTP Attack,FTP Attack
+28012025 13:30:11,ftp,/dionaea/ftp.py:235: cmd 'b'OPTS'',FTP Attack,FTP Attack
+28012025 13:30:11,ftp,/dionaea/ftp.py:235: cmd 'b'PWD'',FTP Attack,FTP Attack
+28012025 13:30:11,ftp,/dionaea/ftp.py:235: cmd 'b'TYPE'',FTP Attack,FTP Attack
+28012025 13:39:44,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 13:51:24,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 14:17:58,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+28012025 14:17:58,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+28012025 14:17:58,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+28012025 14:22:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 14:37:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 14:42:35,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 14:46:07,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 14:46:07,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 14:53:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 14:58:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 15:02:59,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:02:59,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:07:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 15:23:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 15:25:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 15:28:33,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:28:33,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:31:00,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:31:00,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 15:35:54,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 15:43:31,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:02:56,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 16:02:56,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 16:03:53,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 16:23:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:23:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:09,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:10,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:11,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:33:12,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 16:45:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 16:46:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:34,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:04:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:04:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:14:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:14:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:16:01,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:40:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:51:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:51:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 17:58:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 17:59:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 18:11:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 18:32:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 18:34:28,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+28012025 18:36:49,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 18:36:49,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 18:49:29,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:19:11,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 19:19:11,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 19:21:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:29:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:29:33,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:30:20,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 19:30:20,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 19:36:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 19:36:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 19:36:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:39:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:46:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 19:46:59,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 19:46:59,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 19:54:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 20:07:28,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 20:24:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 20:24:56,ftp,/dionaea/ftp.py:235: cmd 'b'MGLNDD_13.60.54.25_21'',FTP Attack,FTP Attack
+28012025 20:30:10,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 20:30:10,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 20:35:13,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 20:35:13,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+28012025 20:53:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 20:53:08,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:07:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:07:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:07:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:07:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:07:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:07:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:09:52,ftp,/dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03\x8a\xe6\x8d\xd80\xfb\xbd\xc7\x10\x01\x9a\x83*\x08\xc4\xb5\x06\xf26\x82\xcf1\x8f7\x9d\xfc\xc9\xe2_s\x11\xc8'',FTP Attack,FTP Attack
+28012025 21:10:11,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+28012025 21:10:11,ftp,/dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03)\x1e\x0b\x83\x1a\xb1y\xa7\xa1!\xaf\xa9\x82\xb0\xfd\x02*\x82@\xfd\xeaS<\x1ca\xaf\xd9i\xf8\x02\xadc'',FTP Attack,FTP Attack
+28012025 21:10:12,ftp,/dionaea/ftp.py:235: cmd 'b'HELP'',FTP Attack,FTP Attack
+28012025 21:10:12,ftp,/dionaea/ftp.py:235: cmd 'b'FEAT'',FTP Attack,FTP Attack
+28012025 21:10:12,ftp,/dionaea/ftp.py:235: cmd 'b'USER'',FTP Attack,FTP Attack
+28012025 21:10:13,ftp,/dionaea/ftp.py:235: cmd 'b'PASS'',FTP Attack,FTP Attack
+28012025 21:24:44,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:29:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:32:29,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:41:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:47:52,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:51:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 21:55:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 21:56:48,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:26:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:34:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:44:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:46:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:46:10,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:51:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:55:29,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:59:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 22:59:39,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:00:03,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:01:31,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:14:15,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:23:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:23:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:24:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:24:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:25:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:26:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:26:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:27:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:27:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:27:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+28012025 23:27:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+28012025 23:28:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 00:05:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 00:25:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 00:25:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 00:26:15,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 00:30:55,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 00:43:39,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 00:43:39,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:07:39,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:17:32,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:24:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:29:12,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:45:09,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:57:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 01:57:38,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 02:12:23,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 02:12:23,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 02:16:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 02:25:28,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 02:57:07,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 02:57:07,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 03:31:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 03:34:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 03:36:00,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+29012025 03:36:00,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'\x00',Other Attack,Other Attack
+29012025 03:36:01,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+29012025 03:40:20,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+29012025 03:52:43,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 03:52:43,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 03:58:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 03:58:22,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:04:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:08:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:30:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:35:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:40:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 04:53:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 05:15:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:15:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:16:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:23:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 05:27:55,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 05:29:39,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 05:29:39,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 05:31:39,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 05:31:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 05:45:58,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+29012025 05:46:00,SMB,/dionaea/smb/smb.py:90: Traceback (most recent call last):,Other Attack,Other Attack
+29012025 05:48:29,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 05:48:29,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 06:01:18,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 06:01:18,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 06:11:05,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 06:14:28,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 06:21:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 06:23:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 06:51:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:01:26,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 07:01:26,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 07:07:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:08:37,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:17:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:22:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:23:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:12,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 07:34:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:34:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:40:51,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'2\x00',Other Attack,Other Attack
+29012025 07:40:51,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'2\x00',Other Attack,Other Attack
+29012025 07:41:59,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'2\x00',Other Attack,Other Attack
+29012025 07:41:59,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'2\x00',Other Attack,Other Attack
+29012025 07:47:05,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:49:07,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:50:37,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:59,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:52:59,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:55:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:55:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:58:54,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 07:58:54,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:06:34,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:33:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:43:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 08:44:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 08:52:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 09:06:11,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 09:06:11,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 09:14:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 09:16:09,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:31:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:32:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 09:32:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:39:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:39:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:45:09,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:52:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 09:58:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 10:01:39,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 10:01:39,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 10:06:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 10:07:13,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 10:07:13,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 10:26:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:26:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:26:37,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:26:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:26:48,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 10:26:48,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 10:29:34,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:29:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 10:41:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 10:48:03,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:48:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:48:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:48:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 10:56:30,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:04:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:16:47,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:19:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:19:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:23:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:24:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:24:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:29:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:39:53,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:39:53,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 11:40:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 12:14:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 12:21:57,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 12:21:57,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 12:35:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 12:38:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 12:46:57,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 12:46:57,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 13:02:27,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 13:02:27,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 13:08:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 13:32:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 13:38:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 13:53:52,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:06:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:22:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:47,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:48,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:54,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:55,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:28:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 14:28:56,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:29:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:35:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:40:52,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:50:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:52:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:53:24,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:54:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 14:57:01,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:02:44,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 15:02:44,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 15:04:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:04:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:14:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:19:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:29:29,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:53:47,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 15:59:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 16:01:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 16:37:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 16:39:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 16:47:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 16:49:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:08:15,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:08:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 17:15:44,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:15:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:15:45,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:15:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 17:44:59,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 18:08:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:30:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:32:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:32:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:32:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:39:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:40:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:44:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:50:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:50:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:51:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:51:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:51:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:51:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:53:53,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 18:53:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:53:57,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 18:54:00,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:54:03,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 18:54:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:55:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:55:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 18:59:22,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:04:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:05:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:05:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:05:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:15,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:06:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:06:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:07:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:07:54,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:09:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:15:13,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 19:15:13,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 19:17:19,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:17:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:25,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:37:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:37:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 19:39:44,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:58:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 19:58:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:03:48,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:04:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:04:38,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:04:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:04:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:17:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:23:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:23:36,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:28:42,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:28:42,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:28:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:28:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:28:43,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:30:32,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:33:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:05,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:12,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 20:38:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:38:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:43:48,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:48:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:48:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:48:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 20:48:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:09:10,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:09:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 21:13:30,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:21:50,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:21:53,ftp,/dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x00\xee\x01\x00\x00\xea\x03\x03\x06\xeb\x81a\x1dK\xb3\xa9:p<e\xb7^Y\xa4\xc54\xc7\xf8\x90[\x03\xee\x15M\xc0\xb8\x87YkK'',FTP Attack,FTP Attack
+29012025 21:22:04,ftp,/dionaea/ftp.py:235: cmd 'b'GET'',FTP Attack,FTP Attack
+29012025 21:22:04,ftp,/dionaea/ftp.py:235: cmd 'b'Host:'',FTP Attack,FTP Attack
+29012025 21:22:04,ftp,/dionaea/ftp.py:235: cmd 'b'Accept:'',FTP Attack,FTP Attack
+29012025 21:26:30,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:30:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:32:11,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:41:31,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:49:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 21:50:51,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 21:50:51,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+29012025 21:51:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:11:21,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 22:11:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'\x16\x03\x01\x00\xee\x01\x00\x00\xea\x03\x03O\x0f\x98\xe7P\xe7\xb8m:\xaa#\xd8\xc34\xee\xd3bw\x10\x12[\xe9\x7f\xfa\xed\x05\xec\x98\x86a\x07\x7f'',FTP Attack,FTP Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'GET'',FTP Attack,FTP Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'Host:'',FTP Attack,FTP Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'HELP'',FTP Attack,FTP Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'EHLO'',FTP Attack,FTP Attack
+29012025 22:19:13,ftp,/dionaea/ftp.py:235: cmd 'b'?'',FTP Attack,FTP Attack
+29012025 22:19:18,ftp,/dionaea/ftp.py:235: cmd 'b'USER'',FTP Attack,FTP Attack
+29012025 22:19:18,ftp,/dionaea/ftp.py:235: cmd 'b'PASS'',FTP Attack,FTP Attack
+29012025 22:20:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:20:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:20:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:37:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 22:37:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 22:37:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 22:39:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 22:47:49,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 22:47:57,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+29012025 22:47:58,ftp,/dionaea/ftp.py:235: cmd 'b'USER'',FTP Attack,FTP Attack
+29012025 22:47:58,ftp,/dionaea/ftp.py:235: cmd 'b'PASS'',FTP Attack,FTP Attack
+29012025 23:06:27,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:06:48,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:46:03,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:46:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:13,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:15,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:16,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:17,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:18,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:19,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:20,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:21,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:22,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:23,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:24,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:29,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:30,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:32,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:33,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:34,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:35,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:37,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:39,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:41,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:44,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:46,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:47,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:48,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:49,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:50,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:51,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:53,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:54,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:54,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:54,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:55,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:46:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:00,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:01,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:03,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:04,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:05,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:06,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:07,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:08,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:09,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:10,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:11,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:47:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+29012025 23:51:52,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:54:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:54:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+29012025 23:54:23,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 00:03:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 00:03:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 00:04:02,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 00:04:14,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 00:04:38,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 00:15:02,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 00:15:02,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 00:26:01,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 00:33:15,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 00:40:42,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 00:40:42,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 00:53:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 00:53:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:03:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:07:18,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:10:44,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 01:10:45,ftp,/dionaea/ftp.py:235: cmd 'b'USER'',FTP Attack,FTP Attack
+30012025 01:10:45,ftp,/dionaea/ftp.py:235: cmd 'b'PASS'',FTP Attack,FTP Attack
+30012025 01:14:56,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:14:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:57,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:14:59,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:14:59,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:26:20,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:37:58,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:43:31,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 01:43:34,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:43:40,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:43:41,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:43:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 01:43:54,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 02:06:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:08:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:09:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:10:30,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:16:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:16:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 02:28:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 02:28:36,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 02:54:16,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 03:04:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 03:04:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 03:04:56,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 03:05:43,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 03:25:14,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 03:26:16,SMB,/dionaea/smb/smb.py:107: === not really SMB,Other Attack,Other Attack
+30012025 03:35:10,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 03:35:10,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 04:04:31,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:05:13,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:05:52,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:05:52,http,/dionaea/http.py:699: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:14:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 04:14:35,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:15:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:15:08,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:17:46,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:21:40,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 04:26:36,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 04:31:04,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 05:02:02,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 05:04:58,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 05:11:12,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 05:15:23,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 05:49:49,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 05:49:49,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 06:41:32,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 06:53:54,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 06:53:55,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:03:12,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:03:42,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:03:43,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:05:37,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:22:06,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:22:07,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:33:51,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:37:45,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:37:45,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:41:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:41:17,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:44:12,ftp,/dionaea/ftp.py:235: cmd 'b'AUTH'',FTP Attack,FTP Attack
+30012025 07:44:26,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:44:52,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:25,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:26,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:27,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:48:28,log_sqlite,/dionaea/logsql.py:747: no attackid for 172.17.0.2:443,Log_SQLite Attack,Log_SQLite Attack
+30012025 07:49:56,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:49:57,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:54:33,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 07:54:34,http,/dionaea/http.py:133: max_num_fields is only supported with Python >= 3.8,HTTP Attack,HTTP Attack
+30012025 08:05:52,SMB,/dionaea/smb/smb.py:127: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 08:05:52,SMB,/dionaea/smb/smb.py:157: p.haslayer(Raw): b'PATH_REPLACE__?????\x00',Other Attack,Other Attack
+30012025 08:13:34,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:34,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:35,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:35,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:35,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:35,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
+30012025 08:13:36,util,/dionaea/bistreams/2025-01-30/ (No space left on device),Other Attack,SIP Attack
