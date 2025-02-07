@@ -34,4 +34,4 @@ pip install -r requirements.txt
 4. View classified logs and select different visualizations (Heatmap/Trend Chart).
 
 ## Screenshots
-
+[!GUI](https://github.com/AbdullahAhmedH/Honeypot-Log-Aggregator/blob/main/img/1.png)
